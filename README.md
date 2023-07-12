@@ -68,6 +68,7 @@ Make sure to properly configure your `.env` file with the API key and other nece
 
 ## Also check these out 👀
 - [Langchain chat with TXT file](https://github.com/mohsinmunir1/chatTXT)
+- [Langchain chat with PDF file](https://github.com/mohsinmunir1/chatPDF)
 
 ## Credits 🙌
 
